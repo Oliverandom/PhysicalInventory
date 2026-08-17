@@ -1,6 +1,7 @@
-# Physical Inventory System for OFP/CWR 
+# Physical Inventory System for Operation Flashpoint/ARMA 1
 
 <img width="1919" height="1199" alt="Iventory Demo 1" src="https://github.com/user-attachments/assets/26dca477-001d-4b5b-aa4d-71de0765d373" />
+
 
 
 Physical Inventory replaces Cold War Assault's abstract gear handling with a modern, physical inventory — a Reforger-style drag-and-drop grid where every item has weight and volume — and builds a small web of systems on top of it: encumbrance, stamina, first-aid, and a full jerry-can fuel economy with realistic per-vehicle tank sizes. Nothing is scripted per mission; it all lives in the engine, so it works everywhere in the base game, the campaign, and the editor.
