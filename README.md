@@ -1,4 +1,4 @@
-# Physical Inventory System for Operation Flashpoint/ARMA 1
+# Physical Inventory System for OFP - ARMA 1
 
 <img width="1919" height="1199" alt="Iventory Demo 1" src="https://github.com/user-attachments/assets/26dca477-001d-4b5b-aa4d-71de0765d373" />
 
