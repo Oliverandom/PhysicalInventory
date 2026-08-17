@@ -1,0 +1,4 @@
+data_dir = "packages/Game"
+timeout = 120
+assert_timeout = 30
+tags = ["headful", "full_game"]

@@ -1,0 +1,7 @@
+binary = "PoseidonGameDemo"
+no_menu = true
+# Fail fast if the menu flow does not reach the Play action or the gameplay
+# view-distance readback. This test is a smoke gate, not a full mission soak.
+timeout = 45
+assert_timeout = 30
+tags = ["headful"]

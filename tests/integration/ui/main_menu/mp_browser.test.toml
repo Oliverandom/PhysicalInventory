@@ -1,0 +1,2 @@
+tags = ["headful"]
+extra_args = ["--master-server", "https://master.example"]
